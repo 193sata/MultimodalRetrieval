@@ -1,0 +1,3 @@
+paths:
+  image_base: "/user/arch/sata/CBIR/MIMIC-CXR/physionet.org/files/mimic-cxr-jpg/2.1.0/files"
+  text_base: "/home1/user/sata/MIMIC-CXR/physionet.org/files/mimic-cxr/2.0.0/files"
