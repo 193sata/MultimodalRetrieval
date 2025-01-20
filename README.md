@@ -1,4 +1,4 @@
-This repository contains the core structure and code for CBMIR v2, a project for medical image retrieval. Due to licensing and file size limitations, datasets, pre-trained models, and other generated files are not included. Users must set up these resources before running the code.
+This repository contains the core structure and code for a project for medical image retrieval. Due to licensing and file size limitations, datasets, pre-trained models, and other generated files are not included. Users must set up these resources before running the code.
 
 ---
 
